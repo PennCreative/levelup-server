@@ -1,0 +1,38 @@
+[
+  {
+      "model": "levelupapi.game",
+      "pk": 1,
+      "fields": {
+          "gametype": 1,
+          "title": "Dracula",
+          "maker": "Bram Stroker",
+          "gamer": 1,
+          "number_of_players": 219,
+          "skill_level": 420
+      }
+  },
+  {
+      "model": "levelupapi.game",
+      "pk": 2,
+      "fields": {
+          "gametype": 2,
+          "title": "Frankenstein",
+          "maker": "Mary Shelley",
+          "gamer": 1,
+          "number_of_players": 219,
+          "skill_level": 420
+      }
+  },
+  {
+      "model": "levelupapi.game",
+      "pk": 3,
+      "fields": {
+          "gametype": 3,
+          "title": "Sleepy Hollow",
+          "maker": "Washington Irving",
+          "gamer": 1,
+          "number_of_players": 219,
+          "skill_level": 420
+      }
+  }
+]
